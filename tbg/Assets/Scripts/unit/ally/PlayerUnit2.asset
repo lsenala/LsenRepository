@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef3443241c17f6e459eeaecca514a6ce, type: 3}
+  m_Name: PlayerUnit2
+  m_EditorClassIdentifier: 
+  UnitUiObject: {fileID: 7367348839491749535, guid: ff7a26a639d37834c929d7dc93248d22, type: 3}
+  unitprefab: {fileID: 3925168176379279741, guid: 465567accf39bc248aab1284611fec05, type: 3}
+  unitsprite: {fileID: 21300000, guid: 5a08af44458bd81478e02ac909a748a0, type: 3}
+  type: 1
+  unitID: -2
+  MaxHP: 55
+  MaxMP: 22
+  MaxCP: 12
+  MaxSpeed: 53
+  unitName: Heroine

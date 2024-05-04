@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c07737cea11fe24c91cca8aed4ea29e, type: 3}
+  m_Name: EnemyUnit1
+  m_EditorClassIdentifier: 
+  UnitUiObject: {fileID: 1210230978452473170, guid: d6d4e8026c2fcfc4ab52198b284b8347, type: 3}
+  unitprefab: {fileID: 7970238417640923373, guid: b1aaa8d119cc01943a27318e1bbbf65c, type: 3}
+  unitsprite: {fileID: 21300000, guid: 1806d6ff9bb0bff419a1278944fdbc59, type: 3}
+  type: 0
+  unitID: 1
+  MaxHP: 38
+  MaxMP: 36
+  MaxCP: 43
+  MaxSpeed: 64
+  unitName: Aho

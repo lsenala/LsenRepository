@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c07737cea11fe24c91cca8aed4ea29e, type: 3}
+  m_Name: EnemyUnit2
+  m_EditorClassIdentifier: 
+  UnitUiObject: {fileID: 3990703478786843701, guid: d9b8642882624e94fba8455394f98456, type: 3}
+  unitprefab: {fileID: 872991203483829696, guid: c7ffbbdd6784bc3418ebab582d7b9e78, type: 3}
+  unitsprite: {fileID: 21300000, guid: d9202b4bde646c44da7b60f6fa511889, type: 3}
+  type: 0
+  unitID: 2
+  MaxHP: 51
+  MaxMP: 53
+  MaxCP: 47
+  MaxSpeed: 82
+  unitName: Baka
